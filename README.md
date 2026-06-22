@@ -44,6 +44,7 @@ This project analyzes the Pizza Hut sales dataset using SQL to generate meaningf
 - 📄 Pizza_Hut_SQL_Project_Report.pdf
 - 💻 pizza_hut_queries.sql
 - 📂 Dataset
+- 📊 Pizza_Hut_SQL_Project.pptx
 
 ---
 
